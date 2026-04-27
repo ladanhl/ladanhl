@@ -42,7 +42,9 @@ Front-End Developer 🚀 | React & Next.js | Building responsive & user-friendly
 #### Forms & Validation
 <p align="left">
   <img src="https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="reacthookform" />
+  <img src="https://img.shields.io/badge/Yup-8BCF3C?style=for-the-badge&logo=yup&logoColor=white" alt="yup" />
   <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=white" alt="zod" />
+
 </p>
 
 #### Build Tools, Deployment & Version Control
@@ -60,9 +62,4 @@ Front-End Developer 🚀 | React & Next.js | Building responsive & user-friendly
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi" />
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="swagger" />
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ladanhl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ladanhl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ladanhl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
