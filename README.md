@@ -1,3 +1,6 @@
+# 💻 Tech Stack:
+# 👋 Hi there, I'm Ladan Hazrati
+
 # 💫 About Me:
 Front-End Developer 🚀 | React & Next.js | Building responsive & user-friendly interfaces. Passionate about clean code & continuous learning.
 
@@ -5,15 +8,13 @@ Front-End Developer 🚀 | React & Next.js | Building responsive & user-friendly
 ## 🌐 Email:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hazratiladanhl@gmail.com) 
 
-# 💻 Tech Stack:
-# 👋 Hi there, I'm [نام شما]
-
 ### 🛠️ Technologies & Tools
 
 #### Core Front-End
 <p align="left">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -27,6 +28,7 @@ Front-End Developer 🚀 | React & Next.js | Building responsive & user-friendly
   <img src="https://img.shields.io/badge/AntDesign-%230073bb.svg?style=for-the-badge&logo=antdesign&logoColor=white" alt="antdesign" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcnui" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
 </p>
 
 #### State Management & Data Fetching
@@ -35,25 +37,28 @@ Front-End Developer 🚀 | React & Next.js | Building responsive & user-friendly
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="zustand" />
   <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react" alt="contextapi" />
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="reactquery" />
-  
 </p>
 
-#### Forms
+#### Forms & Validation
 <p align="left">
   <img src="https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="reacthookform" />
+  <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=white" alt="zod" />
 </p>
 
-#### Build Tools & Deployment
+#### Build Tools, Deployment & Version Control
 <p align="left">
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite" />
   <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
 </p>
 
 #### Backend (Basics)
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi" />
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="swagger" />
 </p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ladanhl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
