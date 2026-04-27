@@ -1,4 +1,4 @@
-# 💻 Tech Stack:
+
 # 👋 Hi there, I'm Ladan Hazrati
 
 # 💫 About Me:
