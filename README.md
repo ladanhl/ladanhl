@@ -2,7 +2,7 @@
 Front-End Developer 🚀 | React & Next.js | Building responsive & user-friendly interfaces. Passionate about clean code & continuous learning.
 
 
-## 🌐 Socials:
+## 🌐 Email:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hazratiladanhl@gmail.com) 
 
 # 💻 Tech Stack:
